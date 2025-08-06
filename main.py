@@ -21,7 +21,7 @@ class MainWindow(QMainWindow):
         self.setWindowTitle("Themes")
 
         self.__init__UI()
-        self.set_stylesheet("light", "light blue")
+        self.set_stylesheet("dark", "red")
 
     def __init__UI(self):
         self.central_widget = QWidget()
