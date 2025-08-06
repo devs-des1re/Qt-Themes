@@ -81,3 +81,5 @@ _**How to download?**_
 <div align="center">
 <img width=49% src="https://github.com/devs-des1re/Qt-Themes/blob/main/images/dark/purple.png?raw=true">
 <img width=49% src="https://github.com/devs-des1re/Qt-Themes/blob/main/images/light/purple.png?raw=true">
+
+# All Rights Reserved devs_des1re 2025
