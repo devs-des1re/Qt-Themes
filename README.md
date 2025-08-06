@@ -59,14 +59,14 @@ _**How to download?**_
 
 <div align="center">
 <img width=49% src="https://github.com/devs-des1re/Qt-Themes/blob/main/images/dark/light blue.png?raw=true">
-<img width=49% src="https://github.com/devs-des1re/Qt-Themes/blob/main/images/light/light blue=png?raw=true">
+<img width=49% src="https://github.com/devs-des1re/Qt-Themes/blob/main/images/light/light blue.png?raw=true">
 
 🔗 Dark Blue
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
 <img width=49% src="https://github.com/devs-des1re/Qt-Themes/blob/main/images/dark/dark blue.png?raw=true">
-<img width=49% src="https://github.com/devs-des1re/Qt-Themes/blob/main/images/light/dark blue=png?raw=true">
+<img width=49% src="https://github.com/devs-des1re/Qt-Themes/blob/main/images/light/dark blue.png?raw=true">
 
 🔗 Pink
 ---------------------------------------------------------------------------------------------------------------------------------------
