@@ -9,7 +9,7 @@ _**How to use?**_
 - Add your desired txt stylesheets in the folder
 - Use `self.setStyleSheet("stylesheets/{your stylesheet}")` (Remember to create a function to read the stylesheet)
 
-=======================================================================================================================================
+---------------------------------------------------------------------------------------------------------------------------------------
 
 _**How to download?**_
 
@@ -81,5 +81,7 @@ _**How to download?**_
 <div align="center">
 <img width=49% src="https://github.com/devs-des1re/Qt-Themes/blob/main/images/dark/purple.png?raw=true">
 <img width=49% src="https://github.com/devs-des1re/Qt-Themes/blob/main/images/light/purple.png?raw=true">
+
+---------------------------------------------------------------------------------------------------------------------------------------
 
 # All Rights Reserved devs_des1re 2025
