@@ -1,0 +1,129 @@
+/* Window Styling */
+QMainWindow, QWidget {
+    background-color: #242424;
+}
+
+/* Label Styling */
+QLabel {
+    color: #FFFFFF;
+    font-size: 14px;
+}
+
+/* Button Styling */
+QPushButton {
+    background-color: #90EE90;
+    color: #000000;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+QPushButton:hover {
+    background-color: #98FB98;
+}
+
+QPushButton:pressed {
+    background-color: #3CB371;
+}
+
+/* Textbox Styling */
+QLineEdit, QTextEdit {
+    background-color: #333333;
+    color: #FFFFFF;
+    border: 1px solid #555555;
+    border-radius: 5px;
+    padding: 8px;
+    font-size: 14px;
+}
+
+QLineEdit:focus, QTextEdit:focus {
+    border: 1px solid #90EE90;
+}
+
+/* Combo Box Styling */
+QComboBox {
+    background-color: #333333;
+    color: #FFFFFF;
+    border: 1px solid #555555;
+    border-radius: 5px;
+    padding: 8px;
+}
+
+QComboBox::drop-down {
+    border: none;
+}
+
+QComboBox QAbstractItemView {
+    background-color: #333333;
+    color: #ffffff;
+    selection-background-color: #90EE90;
+    border: 1px solid #555555;
+    border-radius: 5px;
+    outline: 0px;
+}
+
+QComboBox QAbstractItemView::item:hover {
+    background-color: #555555;
+    color: #FFFFFF;
+}
+
+QComboBox QAbstractItemView::item:selected {
+    background-color: #90EE90;
+    border-radius: 5px;
+    color: #000000;
+}
+
+/* Check Box & Radio Button Styling */
+QCheckBox::indicator, QRadioButton::indicator {
+    width: 18px;
+    height: 18px;
+    border: 2px solid #555555;
+    border-radius: 4px;
+}
+
+QCheckBox::indicator:checked {
+    background-color: #90EE90;
+    border: 2px solid #90EE90;
+}
+
+QRadioButton::indicator:checked {
+    background-color: #90EE90;
+    border: 2px solid #90EE90;
+}
+
+QCheckBox, QRadioButton {
+    color: #FFFFFF;
+    font-size: 14px;
+    spacing: 10px;
+}
+
+/* Slider Styling */
+QSlider::groove:horizontal {
+    border: 1px solid #444444;
+    height: 8px;
+    background: #333333;
+    margin: 2px 0;
+    border-radius: 4px;
+}
+
+QSlider::handle:horizontal {
+    background: #90EE90;
+    border: 1px solid #90EE90;
+    width: 16px;
+    height: 16px;
+    margin: -5px -1px;
+    border-radius: 8px;
+}
+
+QSlider::handle:horizontal:hover {
+    background: #98FB98;
+    border: 1px solid #98FB98;
+}
+
+QSlider::sub-page:horizontal {
+    background: #3CB371;
+    border: 1px solid #444444;
+    height: 8px;
+    border-radius: 4px;
+}
